@@ -1,0 +1,10 @@
+anuja,rajat
+rajat,anuja
+anuja,priyanshu
+priyanshu,anuja
+priyanshu,trinangkur
+trinangkur,bernerd
+trinangkur,priyanshu
+bernerd,trinangkur
+john, jaani
+jaani,john
