@@ -1,0 +1,19 @@
+{
+  "name": "ffb2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "findRelationBetween.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node findRelationBetween.js anuja rajat",
+    "test": "nyc mocha"
+  },
+  "dependencies": {
+    "mocha": "6.2.2",
+    "nyc": "14.1.1"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,11 +1,11 @@
-const assert = require('assert');
-const utilities = require('../src/utilities.js');
+const assert = require("assert");
+const utilities = require("../src/utilities.js");
 const readPersonFriend = utilities.readPersonFriend;
 
-describe("readPersonFriend",() =>{
-  it("should give a list of strings seperated by coma",() => {
+describe("readPersonFriend", () => {
+  it("should give a list of strings seperated by coma", () => {
     const actual = readPersonFriend("a,b");
-    const expected = ["a","b"];
-    assert.deepStrictEqual(actual,expected);
+    const expected = ["a", "b"];
+    assert.deepStrictEqual(actual, expected);
   });
 });
